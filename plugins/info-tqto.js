@@ -9,8 +9,8 @@ let handler = async (m) => {
     let user = global.db.data.users[who]
 let tqto = `*▸ - - - —「 BIG THANKS TO 」— - - - ◂*
 
-*Adiwajshing:*
-https://github.com/adiwajshing
+*Amirr (Ownerbot):*
+https://github.com/USER0106
 
 *Nurutomo:*
 https://github.com/Nurutomo
