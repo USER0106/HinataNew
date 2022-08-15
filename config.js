@@ -71,22 +71,22 @@ let keyalpha = api[Math.floor(Math.random() * api.length)]
 global.apikeys = keyalpha
 
 /*Number*/
-global.nomorbot = '6285171216276'
-global.nomorown = '6282195322106'
-global.namebot = 'ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ'
-global.nameown = 'Oᴡɴᴇʀ ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ'
+global.nomorbot = '6285321043537'
+global.nomorown = '6282154156241'
+global.namebot = '𝙍𝙐𝙆𝘼 - 𝘽𝙊𝙏'
+global.nameown = 'Oᴡɴᴇʀ 𝙍𝙐𝙆𝘼 - 𝘽𝙊𝙏'
 
 /*Watermark*/
-global.wm = '                「 ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ あ⁩ 」'
+global.wm = '                「 𝙍𝙐𝙆𝘼 - 𝘽𝙊𝙏 𝙓 𝘼𝙈𝙄𝙍𝙍 あ⁩ 」'
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ'
+global.wm3 = '⫹⫺ 𝙍𝙐𝙆𝘼 - 𝘽𝙊𝙏 𝙓 𝘼𝙈𝙄𝙍𝙍'
 global.botdate = `⫹⫺ Date :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}`
 global.titlebot = `⫹⫺ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}\n⫹⫺ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 
 /*Thumbnail*/
 global.thumb = 'https://i.ibb.co/ccY2Q0k/20220429-191026.jpg'
-global.imagebot = 'https://telegra.ph/file/793b6accf3758f092742a.jpg'
+global.imagebot = 'https://telegra.ph/file/0c2e35a048bcd4248cc0a.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 global.thumbs = ['https://i.ibb.co/ccY2Q0k/20220429-191026.jpg','https://telegra.ph/file/f87047ec6e5f0d4a9ea91.jpg','https://telegra.ph/file/88edbb01051b397574def.jpg','https://telegra.ph/file/7957630a57078c5ec0400.jpg']
 global.fla='https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
@@ -374,11 +374,11 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 
 /*Link*/
-global.sig = 'https://instagram.com/wudysoft.2'
-global.sgh = 'https://github.com/AyGemuy'
+global.sig = 'https://instagram.com/amirbot_01'
+global.sgh = 'https://github.com/USER0106'
 global.sgc = 'https://chat.whatsapp.com/I2cagI7uWN59oxMomPQvfM'
-global.sdc = 'https://github.com/AyGemuy'
-global.snh = 'https://github.com/AyGemuy'
+global.sdc = 'https://github.com/USER0106'
+global.snh = 'https://github.com/USER0106'
 
 /*Nsfw*/
 global.optsnsfw = true
@@ -391,7 +391,7 @@ global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.shee
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 
-global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
+global.thumbdoc = 'https://telegra.ph/file/0c2e35a048bcd4248cc0a.jpg'
 
 /*Fake*/
 global.fsizedoc = '99999999999999'
@@ -420,9 +420,9 @@ global.htjava = '⫹⫺'
 
 /*Watermark*/
 global.stickpack = '.'
-global.stickauth = `☂︎ ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
+global.stickauth = `☂︎ 𝙍𝙐𝙆𝘼 - 𝘽𝙊𝙏\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
 global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ'
-global.author = 'ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ X Wudysoft'
+global.author = '𝙍𝙐𝙆𝘼 - 𝘽𝙊𝙏 𝙓 𝘼𝙈𝙄𝙍𝙍'
 global.multiplier = 69
 
 /*Pesan*/
@@ -430,21 +430,21 @@ global.eror = 'Erorr...'
 global.wait = 'Wait...'
 global.render = 'Render...'
 global.webs = 'https://s.id/Cerdasin62/'
-global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2d1.jpg'
+global.logo = 'https://telegra.ph/file/c7c06622200d0d75a7e98.jpg'
 global.gcwangsaf = 'https://chat.whatsapp.com/I2cagI7uWN59oxMomPQvfM'
 
 /*Donasi*/
 global.saweria = 'https://saweria.co/wudysoft'
-global.dana = ['0887435373103']
-global.pulsa = ['082195322106']
+global.dana = ['085321043537']
+global.pulsa = ['085321043537']
 global.trakteer = 'https://trakteer.id/wudysoft'
-global.paypal = 'wudysoft@gmail.com'
-global.gopay = '082195322106'
-global.pdana = '0887435373103'
-global.povo = '082195322106'
-global.pgopay = '082195322106'
-global.ppulsa = '082195322106'
-global.ppulsa2 = '082195322106'
+global.paypal = 'amirr@gmail.com'
+global.gopay = '085321043537'
+global.pdana = '085321043537'
+global.povo = '085321043537'
+global.pgopay = '085321043537'
+global.ppulsa = '085321043537'
+global.ppulsa2 = '085321043537'
 global.psaweria = 'https://saweria.com/Wudysoft'
 
 /*Emoji*/
